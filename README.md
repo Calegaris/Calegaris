@@ -48,7 +48,7 @@ Actualmente combino el desarrollo **Backend** (Java/NestJS) con prácticas de **
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-**QA & Herramientas:**
+**Herramientas:**
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -56,13 +56,3 @@ Actualmente combino el desarrollo **Backend** (Java/NestJS) con prácticas de **
 </p>
 
 ---
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calegaris&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="150" />
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Calegaris&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Stats" height="150" />
-  
-  <br/><br/><br/><br/><br/><br/>
-</div>
