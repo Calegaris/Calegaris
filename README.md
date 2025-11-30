@@ -20,7 +20,7 @@
 
 ### 🚀 Sobre mí
 
-Soy un estudiante avanzado de la carrera **Licenciatura en Informática** en Argentina 🇦🇷 con pasión por construir sistemas robustos y asegurar su calidad. 
+Soy un estudiante de la carrera **Licenciatura en Informática** en la Universidad Nacional del Oeste, con pasión por construir sistemas robustos y asegurar su calidad. 
 
 Actualmente combino el desarrollo **Backend** (Java/NestJS) con prácticas de **QA** y conocimientos de **Infraestructura Cloud** (Certificado OCI Foundations). Me motiva crear soluciones escalables y trabajar en equipo.
 
